@@ -1,4 +1,4 @@
-### Для запуска Web-сервиса необходимо поместить в рабочую директорию файлы UI.py и файл final_model.joblib. Затем запустить файл UI.py и перейти по сгенерированной в терминале ссылке.
+### Для запуска Web-приложения необходимо поместить в рабочую директорию файлы UI.py и файл final_model.joblib. Затем запустить файл UI.py и перейти по сгенерированной в терминале ссылке. Или запустить ноутбук в google colab, загрузив туда файл final_model.joblib. 
 ---
 ### Для запуска файла final_version.ipynb необходимо в рабочей директории создать папку data и загрузить туда три zip-файла с изображениями из OneDrive.
 Data for the classifier in OneDrive: https://1drv.ms/f/c/cbef87ddb880e76d/Et-0LQH71jpMl24Ae92OpH4BfqtF1BMiJD6BX2_edBpfww?e=Fajnos
